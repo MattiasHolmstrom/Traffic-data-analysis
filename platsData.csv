@@ -1,0 +1,359 @@
+MätplatsID;Namn;Vägnummer;Kommun
+14002010;Bhpl Gestadvägen;E45;Vänersborg
+14002020;Bhpl Gestadvägen;E45;Vänersborg
+14002030;Bhpl Flybo;E45;Vänersborg
+14002040;Bhpl Flybo;E45;Vänersborg
+14002050;Frändefors;E45;Vänersborg
+14002060;Frändefors;E45;Vänersborg
+14002070;Bhpl Asmundebyn;E45;Vänersborg
+14002080;Bhpl Asmundebyn;E45;Vänersborg
+14002090;Smedserud;E45;Vänersborg
+14002100;Smedserud;E45;Vänersborg
+14002110;Östebyn Norr;E45;Vänersborg
+14002120;Östebyn Söder;E45;Vänersborg
+14005010;VVIS station;161;Uddevalla
+14005020;Nybygget V;161;Uddevalla
+14005030;Nybygget Ö;161;Uddevalla
+14005040;Stensbacka;161;Uddevalla
+14005050;Berghogen;161;Uddevalla
+14005060;Äskebacka;161;Uddevalla
+14005070;Kamperöd;161;Uddevalla
+14006010;Bälinge nö;1900;Alingsås
+14006020;Bälinge sv;1900;Alingsås
+14006030;Torp;1900;Vårgårda
+14006040;Hols skola;1900;Vårgårda
+14006050;Bäne VVIS;1900;Vårgårda
+14006060;Bäne sv;1900;Vårgårda
+14006100;Vårgårda VVIS;E20;Vårgårda
+14006120;Rasta nö;E20;Vårgårda
+14006130;Västergården;E20;Vårgårda
+14006140;Lundskullen;E20;Vårgårda
+14006150;Hasselkroken;E20;Vårgårda
+14006160;Ribbingsberg;E20;Essunga
+14007005;Hassle;E20;Mariestad
+14007010;Hassle;E20;Mariestad
+14007011;Berga;E20;Mariestad
+14007012;Hasslerör Motell;E20;Mariestad
+14007014;Säbykrogen;E20;Mariestad
+14007015;Muggebo;E20;Mariestad
+14007016;Rattugglan;E20;Mariestad
+14007020;Hindsberg;E20;Mariestad
+14007030;Karleby;E20;Mariestad
+14007040;Prästkvarn;E20;Mariestad
+14007050;Lugnås;E20;Mariestad
+14007060;Lugnås;E20;Mariestad
+14007070;Lilla Moholm;E20;Mariestad
+14007080;Lilla Moholm;E20;Mariestad
+14007100;Boamarken;E20;Götene
+14008030;Bahult;E20;Gullspång
+14008040;Bahult;E20;Gullspång
+14009010;Överby TPL;E45;Trollhättan
+14009020;Överby TPL;E45;Trollhättan
+14011010;Vittene;44;Trollhättan
+14011020;Skaven;44;Grästorp
+14013010;Falköpings flygplats;46;Falköping
+14013020;Falköpings flygplats;46;Falköping
+14013030;Källegården;46;Falköping
+14013040;Källegården;46;Falköping
+14013050;Valtorp Syd;46;Falköping
+14013060;Valtorp Norr;46;Falköping
+14013070;Stenstorp Syd;46;Falköping
+14013080;Stenstorp;46;Falköping
+14014010;Väg Kihls By;160;Tjörn
+14014020;Kihls bhpl;160;Tjörn
+14014030;Skåpesunds bhpl;160;Tjörn
+14014040;Skåpesunds Norra bhpl;160;Orust
+14015030;Bingared;190;Göteborg
+14015040;Knipareds bhpl;190;Göteborg
+14015050;Torvhögsvägen;190;Göteborg
+14015060;Olofstorps västra bhpl;190;Göteborg
+14015070;Stannums bhpl;190;Lerum
+14015080;Stannums Byväg;190;Lerum
+14016030;Källby östra;44;Götene
+14016040;Skälvum;44;Götene
+14016050;Götene Arla;44;Götene
+14016060;Götene Prästgårdsängen;44;Götene
+14017010;P-ficka vid Berg;E45;Mellerud
+14017020;P-ficka vid Berg;E45;Mellerud
+14017030;Bhpl vid Kronäckerud;E45;Mellerud
+14017040;Bhpl vid Brunshult;E45;Mellerud
+14017050;Bhpl vid Granliden;E45;Mellerud
+14017060;Bhpl vid Svennungerud;E45;Mellerud
+14017070;Bhpl vid Ö. Vässby;E45;Mellerud
+14019050;Steneby;E6.20;Göteborg
+14019060;Björkebacken östgående;E6.20;Göteborg
+14019070;Björkebacken västgående;E6.20;Göteborg
+14019080;Assmundtorp;E6.20;Göteborg
+14019090;Svensby;E6.20;Göteborg
+14019100;Gerrebacka östgående;E6.20;Göteborg
+14019110;Gerrebacka västgående;E6.20;Göteborg
+14021010;Sandvad vä;156;Mark
+14021020;Sandvad ö;156;Mark
+14021030;Hyssna handel;156;Mark
+14021040;Nybygget;156;Mark
+14022010;Göta;E45;Lilla Edet
+14022020;Göta;E45;Lilla Edet
+14024010;Hjorttorp östgående;156;Mark
+14024020;Hjorttorp västgående;156;Mark
+14024030;Skene skog östgående;156;Mark
+14024040;Skene skog västgående;156;Mark
+14024050;Skene Bil västgående;156;Mark
+14025010;Häggvall sydgående;169;Tjörn
+14025020;Häggvall nordgående;169;Tjörn
+14025030;Svanvik sydgående;169;Tjörn
+14025040;Svanvik nordgående;169;Tjörn
+14027010;Vävra västgående;168;Kungälv
+14027020;Vävra östgående;168;Kungälv
+14027030;Gullbringa västgående;168;Kungälv
+14027040;Gullbringa östgående;168;Kungälv
+14027050;Tjuvkil västgående;168;Kungälv
+14028010;Hassle Jvg;26;Mariestad
+14028020;Hassle Jvg;26;Mariestad
+14028022;Fåleberg norrgående körritning;26;Mariestad
+14028024;Fåleberg södergående körritning;26;Mariestad
+14028026;Börstorp norrgående köriktning;26;Mariestad
+14028028;Börstorp södergående köriktning;26;Mariestad
+14028030;Sjötorp s infart;26;Mariestad
+14028040;Sjötorp Norr kanalen;26;Mariestad
+14029010;S Henån;160;Orust
+14029020;Bhpl Nötevik;160;Orust
+14029030;Bhpl Söbben;160;Orust
+14029040;Gåre Torg;160;Orust
+14029050;Bhpl Sundsandvik;160;Uddevalla
+14029060;Ensk v Åsen;160;Uddevalla
+14030010;Hasslum;49;Skövde
+14030020;Igelstorp;49;Skövde
+14030030;Igelstorp;49;Skövde
+14030040;Hallebacken;49;Skövde
+14030050;Hallebacken;49;Skövde
+14030060;Piggatorp;49;Skövde
+14030070;Piggatorp;49;Skövde
+14030080;Gärekorset;49;Tibro
+14030090;Gärekorset;49;Tibro
+14031010;Moakorset;27;Tranemo
+14031020;Hyltegärde;27;Tranemo
+14031030;Rosenlund;27;Tranemo
+14031040;Limmared;27;Tranemo
+14031050;Limmared;27;Tranemo
+14031060;Tingarör;27;Tranemo
+14031070;Tingarör;27;Tranemo
+14032010;Rännefalan;47;Falköping
+14032020;Rännefalan;47;Falköping
+14032030;Leaby;47;Falköping
+14032040;Leaby;47;Falköping
+14033010;Sundholmen norrgående;41;Mark
+14033020;Sundholmen södergående;41;Mark
+14034010;Backafall;194;Hjo
+14034020;Backafall;194;Hjo
+14034030;Nygården;194;Hjo
+14034040;Nygården;194;Hjo
+14035010;Skattegården;44;Grästorp
+14035020;Skattegården;44;Grästorp
+14035030;Guldsmedstomten;44;Grästorp
+14035040;St Boberg;44;Grästorp
+14036010;Säterkullen;200;Skövde
+14036020;Säterkullen;200;Skövde
+14036030;Ulvängen;200;Skövde
+14036040;Ulvängen;200;Skövde
+14036050;Götlunda k:a;200;Skövde
+14036060;Götlunda k:a;200;Skövde
+14037010;Infart flygplats;563;Göteborg
+14037020;Solberg;563;Göteborg
+14039010;Varnhem;49;Skara
+14040010;Lekåsa norrgående;E20;Essunga
+14040020;Lekåsa södergående;E20;Essunga
+14041010;Acklinga norrgående  ;26;Tidaholm
+14041020;Kavlåsbruket Furubacken;26;Tidaholm
+14041030;Åsebacken norrgående;26;Falköping
+14041040;Åsebacken södergående;26;Falköping
+14042010;Heden;41;Mark
+14042020;Hulatorp;41;Mark
+14044010;Horred norrgående;41;Mark
+14044020;Horred södergående;41;Mark
+14045010;Tråvad kyrka västergående ;47;Vara
+14045020;Tråvad kyrka östergående;47;Vara
+14045030;Knutskvarnen östergående;47;Vara
+14045040;Knutskvarnen västergående;47;Vara
+14046005;Ljungstorp;49;Skara
+14046010;Stenberget;49;Skövde
+14046015;Stenberget östgående körriktning;49;Skövde
+14046020;Våmb Linden;49;Skövde
+14048010;Fagerfjäll norrgående;169;Tjörn
+14048020;Fagerfjäll södergående;169;Tjörn
+14049010;Ödskölt rastplats norrgående;172;Bengtsfors
+14049020;Ödskölt rastplats södergående ;172;Bengtsfors
+14049030;Steneby Munkedalen, norrgående ;172;Bengtsfors
+14049040;Steneby Munkedalen, södergående ;172;Bengtsfors
+14050002;Linderyd norrgående körriktning;195;Hjo
+14050004;Linderyd södergående körriktning;195;Hjo
+14050006;Myrebo norrgående körriktning;195;Hjo
+14050008;Myrebo södergående körriktning;195;Hjo
+14050010;Ringaberget norrgående ;195;Hjo
+14050020;Ringaberget södergående;195;Hjo
+14051010;Lövåsen västergående;202;Mariestad
+14051020;Lövåsen östergående ;202;Mariestad
+14051023;Fredsbergs mosse östergående;202;Töreboda
+14051027;Fredsbergs mosse västergående;202;Töreboda
+14051030;Hulteboda västergående  ;202;Töreboda
+14051040;Hulteboda östergående;202;Töreboda
+14052010;Kringlekullen södergående;587;Göteborg
+14052020;Kringlekullen norrgående  ;587;Göteborg
+14052030;Bolsten ;587;Göteborg
+14052040;Ragnhildsholmen ;587;Göteborg
+14054010;Grälebo södergående körriktning;27;Tranemo
+14054020;Grälebo norrgående körriktning;27;Tranemo
+14054030;Ranabo norrgående körriktning;27;Tranemo
+14054040;Ranabo södergående körriktning;27;Tranemo
+14055010;Hedegården;46;Ulricehamn
+14055020;Nilsagården södergående;46;Ulricehamn
+14055030;Nilsagården norrgående;46;Ulricehamn
+14055040;Timmele kyrka;46;Ulricehamn
+14058010;Hulttorpet;156;Mark
+14058020;Kärra;156;Mark
+14058030;Byhägnen östgående körriktning;156;Mark
+14058040;Byhägnen västgående körriktning;156;Mark
+14059010;Kärrsgärde norrgående körriktning;156;Härryda
+14059020;Kärrsgärde södergående körriktning;156;Härryda
+14059030;Lerviksvägen;156;Härryda
+14059040;Eriksmyst;156;Härryda
+14060010;Marbäck södra norrgående;157;Ulricehamn
+14060020;Marbäck södra södergående;157;Ulricehamn
+14060030;Marbäck norra norrgående;157;Ulricehamn
+14060040;Marbäck norra södergående;157;Ulricehamn
+14061010;Varekil norrgående körriktning;160;Orust
+14061020;Gunnarsbo södergående körriktning;160;Orust
+14061030;Hoga norrgående körriktning;160;Orust
+14061040;Hoga södergående körriktning;160;Orust
+14062010;Uteby norrgående körriktning;162;Lysekil
+14062020;Uteby södergående körriktning;162;Lysekil
+14063010;Nordmanneröd södergående;172;Uddevalla
+14063020;Kopperöds viadukt norrgående;172;Uddevalla
+14063030;Rothugget södergående;172;Uddevalla
+14063040;Ängen norrgående;172;Uddevalla
+14064010;Skäggatorp norrgående körriktning;49;Skara
+14064020;Skäggatorp södergående körriktning;49;Skara
+14064030;Hasslösa norrgående körriktning;49;Lidköping
+14064040;Hasslösa södergående körriktning;49;Lidköping
+14064050;Sävare norrgående körriktning;49;Lidköping
+14064060;Sävare södergående körriktning;49;Lidköping
+14065010;Trädal östgående körriktning;604;Kungälv
+14065020;Trädal västgående körriktning;604;Kungälv
+14066010;Tvibotten;625;Kungälv
+14066020;Välan södergående körriktning;625;Kungälv
+14066030;Välan norrgående körriktning;625;Kungälv
+14066040;Hög;625;Kungälv
+14067010;Hova norrgående körriktning;678;Uddevalla
+14067020;Hova södergående körriktning;678;Uddevalla
+14067030;Bratteröd norrgåede körriktning;678;Uddevalla
+14067040;Bratteröd södergåede körriktning;678;Uddevalla
+14068010;Bronserud norrgående körriktning;26;Gullspång
+14068020;Bronserud södergående körriktning;26;Gullspång
+14069010;Lyse norrgående;162;Lysekil
+14069020;Lyse södergående;162;Lysekil
+14069030;Heden;162;Lysekil
+14069040;Gåseberg;162;Lysekil
+14069050;Brodalen norrgående;162;Lysekil
+14069060;Brodalen södergående;162;Lysekil
+14070010;Lövnäs norrgående;164;Bengtsfors
+14070020;Lövnäs södergående;164;Bengtsfors
+14071010;Bäckefors södergående;166;Bengtsfors
+14071020;Bäckefors norrgående;166;Bengtsfors
+14072010;Ytterby östergående;168;Kungälv
+14072020;Ytterby västergående;168;Kungälv
+14074010;Ödegården norrgående;174;Sotenäs
+14074020;Ödergården södergående;174;Sotenäs
+14074030;Röseberget norrgående;174;Sotenäs
+14074040;Röseberget södergående;174;Sotenäs
+14075010;Hasselön;1186;Sotenäs
+14076010;Kareby-Kode;574;Kungälv
+14076020;Kareby södergående;574;Kungälv
+14076030;Ingetorps sjö norrgående;574;Kungälv
+14076040;Ingetorps sjö södergående;574;Kungälv
+14077010;Röra kyrka norrgående;740;Orust
+14077020;Röra kyrka södergående;740;Orust
+14077030;Alekärret;740;Orust
+14077040;Hogen;740;Orust
+14078010;Segolstorp södergående körriktning;200;Töreboda
+14078020;Segolstorp norrgående körriktning;200;Töreboda
+14078030;Grimstorp;200;Gullspång
+14078040;Ingelstorp;200;Gullspång
+14079010;Ridskolan södergående;184;Falköping
+14079020;Ridskolan norrgående;184;Falköping
+14079030;Gudhems kyrka norrgående;184;Falköping
+14079040;Gudhems kyrka södergående;184;Falköping
+14080010;Klintegården östergående;47;Grästorp
+14080020;Flakeberg västergående;47;Grästorp
+14080030;Long östergående;47;Vara
+14080040;Long västergående;47;Vara
+14081010;Torred;503;Mölndal
+14081020;Kimmersbo;503;Mölndal
+14081030;Långås;503;Mölndal
+14081040;Humlekärr;503;Mölndal
+14082010;Upplo norrgående;42;Alingsås
+14082020;Upplo södergående;42;Alingsås
+14082030;Bhpl Mörlandavägen;42;Alingsås
+14082040;Hultet;42;Alingsås
+14083010;S Torpabron;E45;Lilla Edet
+14083020;N Torpabron;E45;Trollhättan
+14084010;Draget norrgående;42;Alingsås
+14084020;Draget södergående;42;Trollhättan
+14084030;Boryd norrgående;42;Trollhättan
+14084040;Boryd södergående;42;Trollhättan
+14084050;Velanda gård norrgående;42;Trollhättan
+14084060;Velanda gård södergående;42;Trollhättan
+14084070;Väne-Åsaka skola norrgående;42;Trollhättan
+14084080;Väne-Åsaka skola södergående;42;Trollhättan
+14085010;Slutarp;46;Falköping
+14085020;Luttra;46;Falköping
+14085030;Sköttning;46;Falköping
+14085040;Gropagården;46;Falköping
+14086010;Backen;47;Falköping
+14086020;Sotagården;47;Falköping
+14086030;Smedstorp;47;Tidaholm
+14086040;Skogshyddan;47;Tidaholm
+14087010;Skattegården;47;Falköping
+14087020;Källegården;47;Falköping
+14087030;Redberga;47;Falköping
+14087040;Vallen;47;Falköping
+14088010;Hagalund;154;Svenljunga
+14088020;Sexdrega;154;Svenljunga
+14089010;Askum östergående;171;Sotenäs
+14089020;Askum västergående;171;Sotenäs
+14089030;Ödstoft östergående;171;Sotenäs
+14089040;Ödstoft västergående;171;Sotenäs
+14089050;Skarstad västergående;171;Lysekil
+14089060;Skarstad östergående;171;Lysekil
+14090010;Hogdal norrgående;1040;Strömstad
+14090020;Hogdal södergående;1040;Strömstad
+14090030;Solhem södergående;1040;Strömstad
+14090040;Solhem norrgående;1040;Strömstad
+14090050;Nordby norrgående;1040;Strömstad
+14090060;Nordby södergående;1040;Strömstad
+14092010;Röttorp norrgående körriktning;1890;Vårgårda
+14092020;Röttorp södergående körriktning;1890;Vårgårda
+14092030;Lena skola norrgående körriktning;1890;Vårgårda
+14092040;Lena skola södergående körriktning;1890;Vårgårda
+14092050;Östadkulle norrgående körriktning;1890;Vårgårda
+14092060;Sadelsten södergående körriktning;1890;Vårgårda
+14093010;Infart östgående tunnelrör;E6.21;Göteborg
+14093020;Tunnelmitt östgående;E6.21;Göteborg
+14093030;Tunnelmitt västgående;E6.21;Göteborg
+14093040;Infart västgående tunnelrör;E6.21;Göteborg
+14094010;Tunnelmitt norrgående;E6.20;Göteborg
+14094020;Tunnelmitt södergående;E6.20;Göteborg
+14095010;Järpås norrgående;187;Lidköping
+14095020;Järpås södergående;187;Lidköping
+14096010;Valstad västgående;193;Tidaholm
+14096020;Valstad östgående;193;Tidaholm
+14097010;Forsby västgående;194;Skövde
+14097020;Forsby östgående;194;Skövde
+14098010;Lunnareberget västergående;2022;Lilla Edet
+14098020;Lunnareberget östergående;2022;Lilla Edet
+14099010;Fagersanna västgående;49;Tibro
+14099020;Fagersanna östgående;49;Tibro
+14100010;Högaliden;503;Mölndal
+14100020;Gapakullen;503;Mölndal
+14100030;Löjsåker östergående körriktning;503;Mölndal
+14100040;Löjsåker västergående körriktning;503;Mölndal
+14102010;Öjersjö södergående körriktning;535;Härryda
+14102020;Öjersjö norrgående körriktning;535;Härryda
